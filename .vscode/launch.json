@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch activity1_3",
+            "request": "launch",
+            "mainClass": "Week1.activity1_3",
+            "projectName": "of-all-things-java_d50d466c"
+        },
+        {
+            "type": "java",
             "name": "Launch activity1_2",
             "request": "launch",
             "mainClass": "Week1.activity1_2",
