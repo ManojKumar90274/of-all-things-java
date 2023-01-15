@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch activity1_4",
             "request": "launch",
+            "mainClass": "Week1.activity1_4",
+            "projectName": "of-all-things-java_d50d466c"
+        },
+        {
+            "type": "java",
+            "name": "Launch activity1_4",
+            "request": "launch",
             "mainClass": "Week3.activity1_4",
             "projectName": "of-all-things-java_d50d466c"
         },
