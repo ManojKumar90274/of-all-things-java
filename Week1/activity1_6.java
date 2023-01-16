@@ -2,7 +2,7 @@
     color and print it.
  */
 
- package Week1;
+  
  import java.util.Scanner;
  
  public class activity1_6 {

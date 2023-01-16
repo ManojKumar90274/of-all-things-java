@@ -1,6 +1,6 @@
 /* Write a Java program that will ask for your birthday and print it */
 
-package Week1;
+ 
 import java.util.Scanner;
 
 public class activity1_1 {
