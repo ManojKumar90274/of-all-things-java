@@ -1,3 +1,7 @@
+/* Write a Java program that will ask for your address and print it
+ * 
+ */
+
 import java.util.Scanner;
 public class activity1_4 {
     public static void main (String [] args){
